@@ -1,0 +1,2 @@
+This is an export of data comparing predictions from the python code and real game battles.
+Attacker,Defender,Attacker Units,Defender Units,Predicted Winner,Actual Winner,Predicted Units Remaining,Actual Units Remaining
